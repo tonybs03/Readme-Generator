@@ -24,7 +24,8 @@ This is my first attempt at making a readme.md file generator using user prompt 
 
 Please use the following installation instructions in your terminal:
 
-```HELLO```
+```npm init -y```
+```npm install inquirer```
 
 
 ## Usage <a name="usage"></a>
