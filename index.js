@@ -11,7 +11,7 @@ const promptUser = () => {
 // array of questions for user
 const questions = [
   {
-    message: "What is your project title?",
+    message: "What is your project title? (Use dash for space)",
     type: "input",
     name: "projectTitle",
   },
