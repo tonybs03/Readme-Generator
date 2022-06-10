@@ -32,17 +32,17 @@ Please use the following installation instructions in your terminal:
 
 Please use the following command line in your terminal to initiate:
 
-```HELLO```
+```node index.js```
 
 
 ## Contribution Guidelines <a name="contributing"></a>
 
-HELLO
+There is no contribution guidelines as of now. 
 
 
 ## Testing Guidelines <a name="testing"></a>
 
-HELLO HELLO
+There is no testing guidelines as of now. 
 
 
 ## Licenses <a name="licenses"></a>
@@ -51,5 +51,5 @@ This project uses  ```Massachusetts Institute of Technology```
 
 ## Questions <a name="questions"></a>
 
-- Questions? Please [Email Me](mailto:hello@gmail.com).
+- Questions? Please [Email Me](mailto:tony.bs.0303@gmail.com).
 - Please check my [GitHub](https://github.com/tonybs03) for more projects!
