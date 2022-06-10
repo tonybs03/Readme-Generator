@@ -1,11 +1,11 @@
 
 
-# MOCK-PROJECT-HELLO
+# Read-Me-Generator
 
   ![MIT](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
-HELLO HELLO
+This is my first attempt at making a readme.md file generator using user prompt functions from inquirer package.
 
 
 
